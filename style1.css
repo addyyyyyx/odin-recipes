@@ -1,0 +1,39 @@
+*{
+    background-color: wheat;
+}
+li{
+    color: rgb(45, 54, 54);
+    /* background-color: black; */
+    font-size: 25px;
+    
+}
+
+
+a:link{color: black;}
+a:visited{color: rgb(68, 102, 4);}
+a:hover{
+    color: rgb(248, 245, 245);
+    background-color: rgb(39, 37, 37);
+}
+
+h2{
+    background-color: black;
+    color: white;
+    width: 700px;
+    border-radius: 20px;
+    padding-left: 55px;
+    /* justify-content: center; */
+    /* align-content: center; */
+}
+p{
+    font-size: 20px;
+    font-weight: 200;
+
+}
+
+h1{
+    font-size: 42px;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
